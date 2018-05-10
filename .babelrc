@@ -1,0 +1,16 @@
+{
+  "plugins": ["array-includes", "transform-es2015-template-literals"],
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": ["ie 11"]
+      },
+      "useBuiltIns": true
+    }]
+  ],
+  "env": {
+    "production": {
+      "presets": ["minify"]
+    }
+  }
+}

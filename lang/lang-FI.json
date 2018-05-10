@@ -1,0 +1,61 @@
+{
+    "tab_bar": {
+        "title":    "Varaa tästä!",
+        "tab_1":    "Vapaat vesijetit",
+        "tab_2":    "Vapaat ajat",
+        "tab_h":    "Ohje"
+    },
+    "descr_tab_1":      "Kun haluat varata jetin tai jettejä tarkalleen tietylle ajalle...",
+    "descr_tab_2":      "Kun aikataulusi on joustava, ja haluat selailla milloin haluamasi määrä vesijettejä on varattavissa...",
+    "descr_tab_h":      "Kun kaipaat apua...",
+    "pick_day":         "Päivä",
+    "pick_day_long":    "Valitse päivä kalenterista.",
+    "pick_rent_time":   "Kesto",
+    "pick_rent_time_long": "Valitse vuokrauksen kesto eli ajoaika.",
+    "hour_short":       "t.",
+    "time_from":        "Aloitusaika",
+    "time_from_long":   "Valitse aloituskellonaika.",
+    "time_until":       "Lopetusaika",
+    "time_until_long":  "Lopetusaika lasketaan automaattisesti.",
+    "pick_quantity":    "Jettien lkm",
+    "pick_quantity_long": "Valitse varattavien vesijettien lukumäärä.",
+
+    "results_loading":  "Tuloksia ladataan...",
+    "searching":        "Haetaan...",
+
+    "search":           "Etsi",
+    "add_to_cart":      "Lisää ostoskoriin",
+
+    "refresh":          "Päivitä",
+    "refresh_search":   "Päivitä haku",
+    "previous_day":     "Edellinen päivä",
+    "next_day":         "Seuraava päivä",
+
+    "errors": {
+        "no_results":           "Ei tuloksia.",
+        "check_search_times":   "Tarkista antamasi aloitusaika ja päiväys.",
+        "check_date_input":     "Tarkista antamasi päivämäärä.", 
+        "general_error":        "Jotain meni vikaan, yritä uudelleen."
+    },
+
+    "help":                 "Ohje",
+    "general_info_title":   "Ohje",
+
+    "COMMENT(NOT FOR USE)   TODO: These following html-tags shouldn't be here, but this'll do at least for now...": "",
+    "general_info":         ["<h5 class='sw-tertiary-color'><b>Mikä tämä on?</b></h5>", 
+                             "<p>Vesijettien vuokraamista varten kehitetty hakutyökalu, jolla tarpeisiisi sopivan varauksen löytäminen ja tekeminen on helppoa ja yksinkertaista!</p>", 
+                             "<h5 class='sw-tertiary-color'><b>Miten toimin?</b></h5>",
+                             "<p>Tietäessäsi tarkan ajankohdan, saatavilla olevien jettien määrän saat selville parhaiten valitsemalla <b class='sw-primary-color'>VAPAAT VESIJETIT</b> -välilehden.</p>", 
+                             "<p>Jos puolestaan aikataulusi on joustava ja haluat tarkastella milloin tietty määrä jettejä tietyn kestoiseksi ajaksi olisi saatavilla, valitse <b class='sw-secondary-color'>VAPAAT AJAT</b> -välilehti.</p>"
+    ],
+    "general_info_tab_1":   ["<b>VAPAAT VESIJETIT</b> -välilehti", 
+                             "<b>VALITSE:</b> <br>1. haluamasi päivä <br>2. toivomasi ajoaika eli vuokrauksen kesto ja <br><b>3. aloituskellonaika.</b>", 
+                             "Tämän jälkeen voit valita haluamasi vesijetit (lisävarusteineen) hakutuloksista, ja siirtää ne suoraan ostoskoriin yhdellä napinpainalluksella."
+    ],
+    "general_info_tab_2":   ["<b>VAPAAT AJAT</b> -välilehti", 
+                             "<b>VALITSE:</b> <br>1. tarkasteltava päivä, <br> 2. toivomasi ajoaika eli vuokrauksen kesto, sekä <br><b>3. vuokrattavien jettien lukumäärä.</b>",
+                             "Tämän jälkeen voit valita hakutuloksista haluamasi vapaana olevan aloituskellonajan, eli sen hetken jolloin jetti starttaa laiturista.",
+                             "Aloitusaikaa klikkaamalla siirryt <b class='sw-primary-color'>VAPAIDEN JETTIEN</b> välilehdelle, jossa valmiiksi listattuna valittuihin hakukriteereihin täsmäävät laitteet."
+    ]
+    
+}
